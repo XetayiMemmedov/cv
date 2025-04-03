@@ -31,6 +31,13 @@
             color: gray;
         }
 
+        .div2
+        {
+
+            display:inline-block;
+            margin-left: 150px;
+        }
+
         .p1 
         {
             margin-bottom: 0.5rem;
